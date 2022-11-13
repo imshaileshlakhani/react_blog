@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62e0c8fa03f82a3ab67018dc"
+  },
+  "blogId": "62e0c6be51ded2e758eb0a12",
+  "userId": "62dfb784b22445468a387fbb",
+  "like": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e0e9e0790a3df992958e27"
+  },
+  "blogId": "62e0c6d351ded2e758eb0a13",
+  "userId": "62dfb784b22445468a387fbb",
+  "like": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e0e9e8790a3df992958e30"
+  },
+  "blogId": "62e0c6e651ded2e758eb0a14",
+  "userId": "62dfb784b22445468a387fbb",
+  "like": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e0e9ec790a3df992958e39"
+  },
+  "blogId": "62e0c70a51ded2e758eb0a15",
+  "userId": "62dfb784b22445468a387fbb",
+  "like": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e0fa50237f3a263f50994d"
+  },
+  "blogId": "62e0c6be51ded2e758eb0a12",
+  "userId": "62dfdda279d763c7b0a0c724",
+  "like": true,
+  "__v": 0
+}]

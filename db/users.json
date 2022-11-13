@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62dfb784b22445468a387fbb"
+  },
+  "firstName": "Shailesh",
+  "lastName": "Lakhani",
+  "email": "slakhani062@rku.ac.in",
+  "password": "1234567",
+  "confirmPassword": "1234567",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dfdda279d763c7b0a0c724"
+  },
+  "firstName": "Ravi",
+  "lastName": "Lakhani",
+  "email": "ravinlakhani200@gmail.com",
+  "password": "1234567",
+  "confirmPassword": "1234567",
+  "__v": 0
+}]

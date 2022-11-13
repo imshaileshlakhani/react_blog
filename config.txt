@@ -1,0 +1,16 @@
+DB Name: blog
+
+npm start for run react
+node index.js or nodemon for run server
+
+For normal user
+http://localhost:3000/
+
+user1: slakhani062@rku.ac.in
+user2: ravinlakhani200@gmail.com
+pass for both: 1234567
+
+For admin panel
+http://localhost:3000/admin
+
+admin is without login

@@ -1,0 +1,21 @@
+[
+  {
+    "_id": {
+      "$oid": "62e0c21d51ded2e758eb0a0d"
+    },
+    "category": "tech"
+  },
+  {
+    "_id": {
+      "$oid": "62e0c25851ded2e758eb0a0e"
+    },
+    "category": "food"
+  },
+  {
+    "_id": {
+      "$oid": "62e233976e1a8a121d7bb4ca"
+    },
+    "category": "cloth",
+    "__v": 0
+  }
+]
